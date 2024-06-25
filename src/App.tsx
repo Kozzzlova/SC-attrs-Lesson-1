@@ -112,10 +112,11 @@ const Button = styled.button<ButtonPropsType>`
    cursor: pointer;
    color: ${myTheme.colors.bg};
    background-color: ${myTheme.colors.secondary};
-   transition: all 0.2 ease-in 0;
+   transition: all 0.2s ease-in 0;
 
    &:hover {
       background-color: ${myTheme.colors.hover};
+      transition: all 0.2s ease-in 0s;
    }
 
    ${(props) =>

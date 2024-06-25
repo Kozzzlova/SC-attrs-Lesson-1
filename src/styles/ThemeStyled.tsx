@@ -4,6 +4,6 @@ export const myTheme = {
       primary: '#ABB3BA',
       secondary: '#4E71FE',
       headline: '#000',
-      hover: '#e4ac6d',
+      hover: '#fcc779',
    },
 };
