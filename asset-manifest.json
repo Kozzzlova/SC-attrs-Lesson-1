@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/SC-attrs-Lesson-1/static/css/main.e8a81c02.css",
-    "main.js": "/SC-attrs-Lesson-1/static/js/main.9e5e87f6.js",
+    "main.js": "/SC-attrs-Lesson-1/static/js/main.400216e5.js",
     "static/js/787.25eaef86.chunk.js": "/SC-attrs-Lesson-1/static/js/787.25eaef86.chunk.js",
     "static/media/Rectangle1.png": "/SC-attrs-Lesson-1/static/media/Rectangle1.6ce1a1a5a2128ce739b1.png",
     "index.html": "/SC-attrs-Lesson-1/index.html",
     "main.e8a81c02.css.map": "/SC-attrs-Lesson-1/static/css/main.e8a81c02.css.map",
-    "main.9e5e87f6.js.map": "/SC-attrs-Lesson-1/static/js/main.9e5e87f6.js.map",
+    "main.400216e5.js.map": "/SC-attrs-Lesson-1/static/js/main.400216e5.js.map",
     "787.25eaef86.chunk.js.map": "/SC-attrs-Lesson-1/static/js/787.25eaef86.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8a81c02.css",
-    "static/js/main.9e5e87f6.js"
+    "static/js/main.400216e5.js"
   ]
 }
